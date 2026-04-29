@@ -6,10 +6,9 @@
 [![pytorch](https://img.shields.io/badge/Python-PyTorch-orange.svg)](https://www.pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/jxbi1010/VLA-Touch/blob/master/LICENSE)
 [![arXiv](https://img.shields.io/badge/ArXiv-2410.07584-b31b1b.svg)](https://arxiv.org/abs/2507.17294)
+[![RAL2026](https://img.shields.io/badge/RAL%202026-Accepted-purple.svg)](https://www.ieee-ras.org/publications/ra-l)
 
-<!-- [![ICRA 2025](https://img.shields.io/badge/ICRA%202025-Accepted-purple.svg)](https://icra2025.org) -->
-
-This repo contains the code implementation for VLA-Touch:
+This is the official code repo of RA-L 2026 accepted paper: 
 
 <p align="center">&nbsp;<table><tr><td>
     <p align="center">
